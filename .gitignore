@@ -1,0 +1,5 @@
+/.htaccess
+.idea
+ThinkPHP/Conf/
+Application/Runtime/*
+Application/Common/Conf/*
